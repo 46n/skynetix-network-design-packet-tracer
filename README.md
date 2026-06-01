@@ -1,5 +1,9 @@
 # SkyNetix Enterprise Network Design — Cisco Packet Tracer Project
 
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Focus-LAN%20%2F%20WAN-2E8B57)
+![Subnetting](https://img.shields.io/badge/Design-VLSM%20Subnetting-6A5ACD)
+
 ## Overview
 
 This repository is a cleaned portfolio version of an Introduction to Networking academic group project. The project designs a multi-branch enterprise network for SkyNetix Sdn. Bhd. using Cisco Packet Tracer. The full group topology includes multiple branches connected through a WAN, with this repository documenting the Kuala Lumpur branch design as part of the overall team network solution.
