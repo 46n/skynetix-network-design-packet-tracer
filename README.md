@@ -2,14 +2,14 @@
 
 ## Overview
 
-This repository is a cleaned portfolio version of an Introduction to Networking academic group project. The project designs a multi-branch enterprise network for SkyNetix Sdn. Bhd. using Cisco Packet Tracer. The full group topology includes multiple branches connected through a WAN, while my main contribution focuses on the Kuala Lumpur branch network design.
+This repository is a cleaned portfolio version of an Introduction to Networking academic group project. The project designs a multi-branch enterprise network for SkyNetix Sdn. Bhd. using Cisco Packet Tracer. The full group topology includes multiple branches connected through a WAN, with this repository documenting the Kuala Lumpur branch design as part of the overall team network solution.
 
-## My Contribution
+## Team Contribution
 
-- My main contribution was the Kuala Lumpur branch network design.
-- I worked on the KL branch assumptions, floor plan, network cabling layout, wireless coverage layout, topology justification, and addressing plan.
+- The team designed and documented the Kuala Lumpur branch network as part of the full multi-branch enterprise topology.
+- The KL branch work includes assumptions, floor plan, network cabling layout, wireless coverage layout, topology justification, and addressing plan.
 - The group Packet Tracer file is included to show the full multi-branch WAN context.
-- The individual Packet Tracer file highlights my KL branch work.
+- The KL branch Packet Tracer file highlights the branch-specific design within the broader group topology.
 
 ## Project Features
 
@@ -41,7 +41,7 @@ skynetix-network-design-packet-tracer/
 ├── .gitignore
 ├── packet-tracer/
 │   ├── group-network-topology.pkt
-│   └── kl-branch-individual-topology.pkt
+│   └── kl-branch-topology.pkt
 ├── diagrams/
 │   ├── kl-floor-plan-labeled.png
 │   ├── kl-floor-plan-detailed.png
@@ -60,7 +60,7 @@ skynetix-network-design-packet-tracer/
 ## Packet Tracer Files
 
 - `packet-tracer/group-network-topology.pkt` = full group network topology across branches
-- `packet-tracer/kl-branch-individual-topology.pkt` = individual KL branch topology
+- `packet-tracer/kl-branch-topology.pkt` = KL branch topology
 
 ## Diagrams
 
@@ -106,7 +106,7 @@ skynetix-network-design-packet-tracer/
 
 [Network Design Summary PDF](documentation/skynetix-network-design-summary.pdf)
 
-## What I Learned
+## What We Learned
 
 - designing LAN/WAN topologies
 - applying VLSM and subnetting
