@@ -1,0 +1,4 @@
+*.md linguist-language=Markdown linguist-detectable=true
+*.pkt linguist-generated=true
+*.png linguist-documentation=true
+*.pdf linguist-documentation=true
