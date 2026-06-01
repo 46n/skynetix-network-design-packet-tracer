@@ -1,4 +1,5 @@
-*.md linguist-language=Markdown linguist-detectable=true
+tools/*.py linguist-language=Python linguist-detectable=true
+*.md linguist-documentation=true
 *.pkt linguist-generated=true
 *.png linguist-documentation=true
 *.pdf linguist-documentation=true
